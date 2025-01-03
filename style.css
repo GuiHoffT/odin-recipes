@@ -1,0 +1,34 @@
+* { 
+    background-color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none; /* make bullet points disappear */
+    background-color: wheat;
+    margin-top: 0;
+}
+
+a{
+    background-color: wheat;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+h3{
+    text-align: center;
+    background-color: wheat;
+    margin: 0;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+}
